@@ -8,7 +8,7 @@
   "main": "dist/index.js",
   "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "build": "tsc"
   }
 }
