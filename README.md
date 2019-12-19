@@ -1,7 +1,5 @@
 # @kamataryo/cli-radio
 
-![title](./social.png)
-
 ## install
 
 ```shell
