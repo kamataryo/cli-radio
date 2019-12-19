@@ -5,7 +5,7 @@
     "@types/node": "^12.12.21",
     "typescript": "^3.7.3"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
   "license": "MIT",
